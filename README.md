@@ -9,3 +9,4 @@ Per una descrizione più approfondita fare riferimento alla relazione del progett
 
 * Elia Mercatanti
 * Samuele Bucciero
+* Andrea Pinto
